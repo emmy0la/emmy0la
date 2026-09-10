@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a Data Analyst with a background in Industrial Mathematics and a passion for using data to solve practical business problems.
 
@@ -26,14 +26,14 @@ I enjoy learning by doing, building practical projects, and turning raw data int
 
 ---
 
-## 🛠️ Tools
+## Tools
 
 SQL | MySQL | Excel | Power BI | Python
 Pandas | NumPy | Jupyter Notebook | GitHub
 
 ---
 
-## 📊 Projects
+## Projects
 
 * Employee Management System | SQL
 * Northwind Business Analysis | SQL + Excel
